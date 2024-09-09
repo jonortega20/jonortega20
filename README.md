@@ -3,6 +3,7 @@
 I'm **Jon Ortega Uzquiaga**, Co-founder and CTO @AIEDUTECH. I am passionate about using AI and data analytics to drive innovation, particularly in education.
 
 🚀 **Check out my [Portfolio](https://jonortegai.github.io/)** 🚀
+<br><br>
 
 ### 👨‍💻 About Me
 
@@ -34,7 +35,6 @@ I'm **Jon Ortega Uzquiaga**, Co-founder and CTO @AIEDUTECH. I am passionate abou
 
 ### 🤝 Where to find me:
 
-<h3>Where to find me</h3>
 <a href="https://www.linkedin.com/in/jon-ortega-uzquiaga-598a40212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://jonortegai.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 
