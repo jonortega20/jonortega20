@@ -46,6 +46,6 @@ I'm **Jon Ortega Uzquiaga**, Co-founder and CEO @ Wrappers AI. I am passionate a
 <a href="https://jonortega.org/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](http://medium.com/@jonortega20/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/jonortega20/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]([#](https://x.com/jon__ortega))
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/jon__ortega/)
 
 Feel free to reach out if you'd like to collaborate!
