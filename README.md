@@ -48,4 +48,4 @@ I'm **Jon Ortega Uzquiaga**, Co-founder and CEO @ Wrappers AI. I am passionate a
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/jonortega20/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/jon__ortega/)
 
-Feel free to reach out if you'd like to collaborate!
+Feel free to reach out at **jonortega20@gmail.com** if you'd like to collaborate!
