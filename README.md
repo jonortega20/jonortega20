@@ -8,8 +8,9 @@ I'm **Jon Ortega Uzquiaga**, Co-founder and CEO @ Wrappers AI. I am passionate a
 ### 👨‍💻 About Me
 
 * 💼 CEO @ [Wrappers AI](https://wrappers.es/)
-* 🎓 Bachelor's in Business Data Analytics
+* 🎓 Bachelor's in Business Data Analytics & AI
 * 🌐 Certified in AI, Data Science, NLP, Agentic AI and business.
+* 🗣️ Invited speaker at multiple events, including a featured talk at the European Central Bank (ECB)
 * 💻 Self-taught software engineer
 * 📊 Lead Data Scientist @ GAIA Consulting | Co-founder & CTO @AIEDUTECH
 * 💡 Best Start-up in Spain - Sleeptile by Junior Achievement & FedEx
